@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @rocketd3v
+/src/backend/database.py      @rocketd3v
+/src/backend/routers/auth.py  @rocketd3v
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @rocketd3v
